@@ -1,0 +1,28 @@
+body {
+    background-color: darkgoldenrod;
+    background-image: url("images/trashmangaicon.png");
+}
+#manga{
+    float: left;
+    font-size: 60px;
+    color: #6495ed;
+    background-color: #000000;
+}
+#mangaList{
+    float: left;
+    list-style-type: square;
+    background-color: #6495ed;
+    margin-top: 0px;
+}
+#header{
+    float: right;
+    color: #2f9953;
+    font-family: "Javanese Text ";
+    background-color: #ffff99;
+}
+#colorBar{
+    float: top;
+    background-color: red;
+    width: window.length;
+    height: 20px;
+}
